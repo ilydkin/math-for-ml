@@ -1,4 +1,5 @@
-# Some basic ML math topics covered in SymPy
+## Some basic ML math topics covered in SymPy
+(SkillBox course abstract)
 
 1. SymPy operators
 2. Function's properties study

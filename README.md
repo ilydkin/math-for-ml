@@ -1,4 +1,5 @@
 # Some basic ML math and probability theory topics covered in SymPy and SciPy
+(SkillBox course abstract)
 
 1. SymPy operators
 2. Function's properties study

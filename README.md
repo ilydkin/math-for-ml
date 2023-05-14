@@ -1,6 +1,7 @@
-# Some basic ML math and probability theory topics covered in SymPy and SciPy
+## Some basic ML math and probability theory topics covered in SymPy and SciPy
 (SkillBox course abstract)
 
+### Mathematics
 1. SymPy operators
 2. Function's properties study
 3. Polynomial interpolation
@@ -11,6 +12,7 @@
 8. Matrices
 9. Pseudo inverse matrix as an overdetermined SLAE solution / best MSE approximation
 
+### Probability theory
 1. Law of large numbers
 2. Conditional probability and Bayes' theorem
 3. Discrete random variable distributions: Uniform, Binomial
@@ -18,4 +20,4 @@
 5. Cumulative Distribution Function (CDF), Probability Density Function (PDF), Expectation, Variance, Standard deviation  
 6. Central limit theorem, Student's t-distribution
 7. Random value generation (Inverse function)
-8. Parametric and nonparametric hypothesis testing
+8. Parametric and nonparametric hypothesis tests
